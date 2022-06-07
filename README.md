@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heizenwhite.</h1>
 <h3 align="center">A passionate Full Stack developer, interested in Data Science and Game Development.</h3>
 
-- 🌱 I’m currently learning **Machine Learning and advanced Java.**
+- 🌱 I’m currently learning **Machine Learning and Data Science.**
 
 - 📝 I regularly write articles on [https://heizenstories.wordpress.com](https://heizenstories.wordpress.com)
 
