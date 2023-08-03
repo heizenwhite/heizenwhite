@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science.**
 
-- 📝 I regularly write articles on [https://heizenstories.wordpress.com](https://heizenstories.wordpress.com)
+- 📝 I regularly ~~don't~~ write articles on [https://heizenstories.wordpress.com](https://heizenstories.wordpress.com)
 
 - 💬 Ask me about **history, fantasy and tech.**
 
